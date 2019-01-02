@@ -1,2 +1,2 @@
 # ExtentReport
-ExtentReport
+Extent_report,Screenshot,sentkeys_displayed
